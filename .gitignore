@@ -1,1 +1,5 @@
 *.jpg
+/testing/Baseline_Community_New/BaseLine_Output_Images
+/testing/Baseline_LargeHouse_New/BaseLine_Output_Images
+/testing/Baseline_LargeHouse_New/Images_Output
+/testing/Baseline_LargeHouse_New/plotting
